@@ -1,0 +1,18 @@
+library(anytime)
+library(tidyverse)
+#hello= list()
+fileNames <- Sys.glob("/Users/amos/Google Drive/FairTech/Esdr_data_Location_monthly/4914/2017/*.csv")
+for (fileName in fileNames) {
+  #print("This is working")
+  Loc_4910 <- read.csv(fileName, na.strings = c("foo", "bar"), stringsAsFactors=FALSE)
+  Loc_4910$Realdate <- anytime(Loc_4910$EpochTime)
+  Loc_4910$Counts <- rowSums (Loc_4910[1:16] > 0 )
+  head (Loc_4910)
+  freq <- table (Loc_4910$Counts)
+  rel_freq <- (freq / NROW(Loc_4910$Counts)*100)
+  old = options(digits=2) 
+  print (fileName)
+  print (cbind(rel_freq))
+  #hello[fileName]= list(cbind(rel_freq))
+  ##write.csv(hello, file = "test4.csv")
+}
