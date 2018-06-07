@@ -5,11 +5,7 @@ This Read-me will list all the scripts and a short summary of what they do. The 
 
 
 For the analysis. All data used can be acquired here: 
-1. (Data for the stuff done in Python) 
-2. https://drive.google.com/drive/folders/1uNSm90ibWbzZiPqEMHIlFhvi9LjfA3x4?usp=sharing  (Data for most of the stuff done in R)
-
-
-
+https://drive.google.com/drive/folders/11vHLS1kqlDe7ocpaI3ClLc14Rz1CKtYc?usp=sharing
 
 If you would like to pull your own data you can use the following links: 
 1. Go to https://esdr.cmucreatelab.org/browse/ and select the data you want to view and right click and download as csv or json format.
