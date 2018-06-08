@@ -11,7 +11,7 @@ Plotting_individual_pollutants_richmond.py: This script was used in creating plo
 four_possibilities_richmond.py: This script was used to make counts for 4 possible scenarios explained in our report where a pollutant is detected at both refinery and community OR either one or the other or either nothing detected at all. 
 
 R files 
-Four_or_More_Pollutants.R: This script  written in R basically  helps calculate a relative frequency for when there is 1, 2, 3, 4.. up to the maximum 16 pollutants that are in the air at any point in time. After getting these frequencies, I basically put them into an excel sheet (available here)- And I added up the 4 - 16 percentages. 
+Four_or_More_Pollutants.R: This script  written in R basically  helps calculate a relative frequency for when there is 1, 2, 3, 4.. up to the maximum 16 pollutants that are in the air at any point in time. After getting these frequencies, I basically put them into an excel sheet (available here: https://drive.google.com/open?id=1tW7MZxibUMo-RtLiLGyY013mnHTMpFM0bqE0CPkUXXI)- And I added up the 4 - 16 percentages. 
 
 barplotvisualizations_monthly.R: This script written in R was used to make bar plots showing monthly pollutant detects. 
 
