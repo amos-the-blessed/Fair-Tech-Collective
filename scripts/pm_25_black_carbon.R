@@ -23,12 +23,6 @@ for (fileName in fileNames) {
   bcstuff<-describe(Loc_4910[,columns_to_change[2]])
   print(pm25)
   print(bcstuff)
-  # Write the first data set in a new workbook
-  #write.xlsx(fileName,pm25,bcstuff, file = "datastuff", sheetName = "4910_2016", append = FALSE)
   
-  #print("This is working")
-  #print(head (Loc_4910))
-  #print(describe(pmfix))
-  #print(describe(bcfix))
   
 }
