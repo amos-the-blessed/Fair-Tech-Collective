@@ -6,7 +6,7 @@ This README will list all the scripts and a short summary of what they do. The d
 Python Files 
 Counts_of_pollutants_plot_4910, 4911, 4912, 4913, 4914.py:  These scripts were used to generate the plots showing pollutants released over time in locations 4910, 4911, 4912, 4913, 4914. Although not used in the report, these plots were one of the early visuals explored during the project.  Please See a link to some of the visuals produced: https://drive.google.com/drive/folders/1es4Bnm4kP7h60SUASeQcZqVZaQ3SSAwI
 
-Plotting_individual_pollutants_richmond.py: This script was used in creating plots for individual pollutants in Richmond. These were
+Plotting_individual_pollutants_richmond.py: This script was used in creating plots for individual pollutants in Richmond. The plots used here were not used in the report but can be explored using this link: https://drive.google.com/drive/folders/1sTLyTdECME63PBCR6FjyD2r2u80rDFwV
 
 four_possibilities_richmond.py: This script was used to make counts for 4 possible scenarios explained in our report where a pollutant is detected at both refinery and community OR either one or the other or either nothing detected at all. Used in creating Figure 3 in the report.
 
