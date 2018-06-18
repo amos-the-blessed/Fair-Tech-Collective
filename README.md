@@ -4,7 +4,7 @@ The code in this repositry are the scripts I wrote to do data analysis on Fair T
 This README will list all the scripts and a short summary of what they do. The data used in this analysis can be acquired from the following places: 
 
 Python Files 
-Counts_of_pollutants_plot_4910, 4911, 4912, 4913, 4914.py:  These scripts were used to generate the following plots. One of the early plots we looked into during the project. 
+Counts_of_pollutants_plot_4910, 4911, 4912, 4913, 4914.py:  These scripts were used to generate the plots showing pollutants released over time in locations 4910, 4911, 4912, 4913, 4914. Although not used in the report, these plots were one of the early visuals explored during the project. 
 
 Plotting_individual_pollutants_richmond.py: This script was used in creating plots for individual pollutants in Richmond. 
 
