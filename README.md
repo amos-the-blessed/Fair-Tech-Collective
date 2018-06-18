@@ -1,7 +1,7 @@
 # Fair-Tech-Collective
 The code in this repositry are the scripts I wrote to do data analysis on Fair Tech's project on air pollution data in specific locations in the bay area: 
 
-This Read-me will list all the scripts and a short summary of what they do. The data used in this analysis can be acquired from the following places: 
+This README will list all the scripts and a short summary of what they do. The data used in this analysis can be acquired from the following places: 
 
 Python Files 
 Counts_of_pollutants_plot_4910, 4911, 4912, 4913, 4914.py:  These scripts were used to generate the following plots. One of the early plots we looked into during the project. 
